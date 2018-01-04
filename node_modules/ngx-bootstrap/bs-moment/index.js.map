@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../.tmp/bs-moment/index.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,YAAY,EACZ,kBAAkB,EAClB,WAAW,EACZ,MAAM,0BAA0B,CAAC","file":"index.js","sourceRoot":"","sourcesContent":["export {\n  defineLocale,\n  getSetGlobalLocale,\n  listLocales\n} from './locale/locales.service';\nexport { LocaleData } from './locale/locale.class';\n"]}
